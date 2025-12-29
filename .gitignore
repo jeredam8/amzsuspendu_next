@@ -1,6 +1,15 @@
+# Dependencies
 node_modules
+
+# Next.js build output
+.next
+out
 dist
+
+# System files
 .DS_Store
+
+# Misc
 server/public
 vite.config.ts.*
 *.tar.gz
